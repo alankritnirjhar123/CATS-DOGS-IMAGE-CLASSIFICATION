@@ -1,7 +1,7 @@
 # CATS-DOGS-IMAGE-CLASSIFICATION
 Binary Image Classification using Custom Trained Top Layer Dense Model over Pretrained VGG16 CONVOLUTIONAL BLOCKS
 
-# Binary Image Classification Model Using Neural Networks
+# Binary Image Classification Model Using pretrained VGG16 with Custom Trained Sequential Model on Top with Dense Layers
 
 
 # *AIM* - Objective is to classify images of dogs and cats using pre-trained Convolutional blocks of VGG16 Model trained on Imagenet Dataset on top of a Custom Trained Top Layer of Sequential Dense Layers
